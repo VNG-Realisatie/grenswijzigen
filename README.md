@@ -1,3 +1,8 @@
+| Eigenaar | Ingevuld door |
+| --- | --- |
+| Kennis centrum Data | Michiel Verhoef |
+<hr/>
+
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
